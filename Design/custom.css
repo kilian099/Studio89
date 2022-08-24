@@ -4,6 +4,11 @@
   background-color:black;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 .logo{
   width:250px;
   height:200px;
